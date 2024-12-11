@@ -4,6 +4,7 @@
 
 This React application fetches posts from the [JSONPlaceholder API](https://jsonplaceholder.typicode.com/posts) and allows users to search for posts by:
 
+
 1. **User ID**
 2. **Post ID**
 
